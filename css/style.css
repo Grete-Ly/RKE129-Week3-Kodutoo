@@ -1,0 +1,68 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand&display=swap');
+
+body {
+    background-color: antiquewhite;
+}
+
+.heading {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 2rem;
+    color:saddlebrown;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.instructions ol {
+    border: 2px solid plum;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.img {
+    width: 250px;
+    height: 400px;
+    margin: 5%;
+    padding-left: 190px;
+    
+}
+
+.link {
+    color:black;
+}
+
+.link a {
+    color:cornflowerblue;
+}
+
+.hr {
+    margin-top: 3%;
+    border-color:plum;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 5px;
+}
